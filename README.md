@@ -1,1 +1,1 @@
-# quzrtz-test
+# quzrtz.net-test
